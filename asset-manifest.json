@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Crypto-Market-Search-Practice/static/css/main.1d86c907.chunk.css",
+    "main.js": "/Crypto-Market-Search-Practice/static/js/main.d2dd3e97.chunk.js",
+    "main.js.map": "/Crypto-Market-Search-Practice/static/js/main.d2dd3e97.chunk.js.map",
+    "runtime-main.js": "/Crypto-Market-Search-Practice/static/js/runtime-main.e79eb315.js",
+    "runtime-main.js.map": "/Crypto-Market-Search-Practice/static/js/runtime-main.e79eb315.js.map",
+    "static/css/2.4659568d.chunk.css": "/Crypto-Market-Search-Practice/static/css/2.4659568d.chunk.css",
+    "static/js/2.f67e5b12.chunk.js": "/Crypto-Market-Search-Practice/static/js/2.f67e5b12.chunk.js",
+    "static/js/2.f67e5b12.chunk.js.map": "/Crypto-Market-Search-Practice/static/js/2.f67e5b12.chunk.js.map",
+    "index.html": "/Crypto-Market-Search-Practice/index.html",
+    "static/css/2.4659568d.chunk.css.map": "/Crypto-Market-Search-Practice/static/css/2.4659568d.chunk.css.map",
+    "static/css/main.1d86c907.chunk.css.map": "/Crypto-Market-Search-Practice/static/css/main.1d86c907.chunk.css.map",
+    "static/js/2.f67e5b12.chunk.js.LICENSE.txt": "/Crypto-Market-Search-Practice/static/js/2.f67e5b12.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e79eb315.js",
+    "static/css/2.4659568d.chunk.css",
+    "static/js/2.f67e5b12.chunk.js",
+    "static/css/main.1d86c907.chunk.css",
+    "static/js/main.d2dd3e97.chunk.js"
+  ]
+}
